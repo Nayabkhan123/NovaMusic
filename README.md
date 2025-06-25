@@ -31,6 +31,7 @@ NovaMusic is a sleek, responsive music player built using **HTML**, **CSS**, and
 ---
 
 ## 📂 Folder Structure
+```
 NovaMusic/
 ├── index.html
 ├── style.css
@@ -42,7 +43,7 @@ NovaMusic/
 │   ├── thoda.jpg
 │   ├── villian.jpg
 │   └── icon.png
-
+```
 Run Locally:
 1. Clone the repo:
    git clone https://github.com/Nayabkhan123/NovaMusic.git
