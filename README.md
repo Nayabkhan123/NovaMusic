@@ -37,12 +37,12 @@ NovaMusic/
 ├── style.css
 ├── index.js
 ├── thumnails/
-│   ├── firbhi.jpg
-│   ├── husn.jpg
-│   ├── sunraha.jpeg
-│   ├── thoda.jpg
-│   ├── villian.jpg
-│   └── icon.png
+   ├── firbhi.jpg
+   ├── husn.jpg
+   ├── sunraha.jpeg
+   ├── thoda.jpg
+   ├── villian.jpg
+   └── icon.png
 ```
 Run Locally:
 1. Clone the repo:
